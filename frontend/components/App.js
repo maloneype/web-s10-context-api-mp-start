@@ -2,6 +2,7 @@ import React, { useReducer } from 'react'
 import Quotes from './Quotes'
 import QuoteForm from './QuoteForm'
 
+
 const CREATE_QUOTE = 'CREATE_QUOTE'
 const DELETE_QUOTE = 'DELETE_QUOTE'
 const EDIT_QUOTE_AUTHENTICITY = 'EDIT_QUOTE_AUTHENTICITY'
